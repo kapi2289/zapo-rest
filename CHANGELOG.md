@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Fixed
 
 - Incoming group calls can now be answered via REST or the softphone when the group key arrives after acceptance.
+- The call history and softphone download existing and new WAV recordings through the instance-key route and report failed downloads.
 
 ## [0.12.0] - 2026-11-06
 
